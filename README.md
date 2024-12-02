@@ -25,7 +25,7 @@ Time-series plots, pivot tables, and category-based visualizations to showcase t
 
 ### 📂 **Contents of the Repository**  
 - **`EDA.ipynb`**: The Jupyter Notebook containing the detailed analysis and visualizations.  
-- **`e-commerce-data.csv`**: Dataset used for analysis (if shareable).  
+- **`e-commerce-data.csv`**: Dataset used for analysis link for dataset: https://drive.google.com/file/d/1IyNWldWbZQHUGrrN42HPYLHUxnfx9fCZ/view?usp=sharing
 - **`README.md`**: Overview of the project.  
 
 ### 🚀 **Skills Demonstrated**  
